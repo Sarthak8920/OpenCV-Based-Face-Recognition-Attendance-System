@@ -1,0 +1,12 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+numpy
+scikit-learn
+reportlab
+PyQt5
+PyQtChart
+Pillow
+pandas
+flask
+flask_cors
